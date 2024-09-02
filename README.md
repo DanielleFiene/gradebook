@@ -96,6 +96,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This README provides a clear explanation of the code's purpose, how it works, and what you can learn from it. It also includes instructions on how to run the code, making it easier for others to use and understand your project.
